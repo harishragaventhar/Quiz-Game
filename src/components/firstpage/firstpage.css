@@ -1,0 +1,20 @@
+.maindivfirstpage{
+background-color: rgb(18, 18, 71);
+min-height: 100vh;
+padding-top: 255px;
+}
+.buttonfirstpage{
+    background-color: rgb(234, 64, 34)!important;
+    color: white!important;
+}
+.inputfield{
+    border: none;
+    outline: none;
+    border-bottom: 1px solid white;
+    color: white;
+    background-color: rgb(18, 18, 71);
+    
+}
+.inputfield::placeholder{
+    color: white;
+}
